@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moharir-pinak&show_icons=true&locale=en&layout=compact" alt="moharir-pinak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moharir-pinak&" alt="moharir-pinak" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moharir-pinak&" alt="moharir-pinak" />
